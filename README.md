@@ -119,6 +119,54 @@
 
 ---
 
+
+
+## 🌌 Phantom Starboard
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=00F9FF&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Phantom+Starboard+Initiated;Visualizing+Constellations+of+Code;Tracking+Stars%2C+Commits%2C+Languages+%26+Impact..." align="center" />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:F000FF,100:00F9FF&height=140&section=header&text=🚀%20Phantom%20Starboard&fontAlign=50&fontAlignY=30&fontColor=FFFFFF&fontSize=40" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PhantomSpace-Studio&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhantomSpace-Studio&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhantomSpace-Studio&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PhantomSpace-Studio&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PhantomSpace-Studio&theme=tokyonight" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhantomSpace-Studio&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</div>
+
+---
+
+### 🛰️ Featured Repositories
+
+| 🌟 Repo | ✨ Description | ⚙️ Stack |
+|--------|----------------|-----------|
+| [**PhantomNet**](https://github.com/PhantomSpace-Studio/PhantomNet) | Decentralized AI browser | Node.js · Tor · VPN · P2P |
+| [**PhantomPlayer**](https://github.com/PhantomSpace-Studio/PhantomPlayer) | Video player + pro editor | Electron · FFmpeg · AI Subtitles |
+| [**PhantomVault**](https://github.com/PhantomSpace-Studio/PhantomVault) | Secure ZKP vault system | Rust · snarkjs · Biometric Auth |
+| [**PhantomThreads**](https://github.com/PhantomSpace-Studio/PhantomThreads) | Architectural CAD platform | C++ · Vulkan · WebGL · AI |
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=00F9FF&height=120&section=footer&text=✨%20Every%20Star%20is%20a%20Story%20✨&fontAlign=50&fontColor=FFFFFF&fontSize=20" />
+</div>
+---
+
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=120&section=footer&text=Welcome+to+the+Threaded+Future&fontSize=22&fontColor=ffffff"/>
 </div>

@@ -6,9 +6,27 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PhantomSpace-Studio/PhantomSpace-Studio/output/github-contribution-grid-snake.svg" alt="snake gif" width="100%"/>
+
+## 🧿 Phantom Metrics Radar
+
+<div align="center" style="position:relative; z-index:1;">
+  <img src="https://phantomthreads.com/assets/parallax-bg.svg" width="100%" style="position:absolute; z-index:-1; opacity:0.4; top:0;" />
+  
+  <br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhantomSpace-Studio&theme=radical" height="200" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PhantomSpace-Studio&theme=radical&utcOffset=8" height="200" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PhantomSpace-Studio&theme=radical" height="200" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PhantomSpace-Studio&theme=radical" height="200" />
+
+  <br/>
 </div>
+
+> 🪐 *Radar vision activated — decoding your development constellation.*
+
 
 ---
 
@@ -53,7 +71,23 @@
 ## 🧩 Trophy Rack
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PhantomSpace-Studio&theme=gruvbox&row=1&column=8&margin-w=10" />
+   <video width="100%" autoplay loop muted playsinline>
+    <source src="https://phantomthreads.com/assets/trophy-parallax.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PhantomSpace-Studio&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=PhantomSpace-Studio&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhantomSpace-Studio&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=github,git,vscode,linux,figma,docker,react,nextjs,ts,rust,electron,webgl,threejs&theme=dark" alt="Skill Icons" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=🔥+Built+Different+🔥&fontSize=30&fontAlignY=35&desc=Award-Worthy+Tech+Craftsmanship&descAlignY=60&fontColor=ffffff"/>
+
 </div>
 
 ---
